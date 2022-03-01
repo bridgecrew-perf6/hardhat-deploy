@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "@ethersproject/abi": "^5.5.0",
-    "@ethersproject/abstract-signer": "^5.5.1",
+    "@ethersproject/abstract-signer": "^5.5.0",
     "@ethersproject/address": "^5.5.0",
     "@ethersproject/bignumber": "^5.5.0",
     "@ethersproject/bytes": "^5.5.0",
